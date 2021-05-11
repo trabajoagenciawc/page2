@@ -1,6 +1,6 @@
 //alert("<p>aleert</p>");
 //document.write("documet.write para ver que pasa");
-//console.log("console.log para ver que pasa"); 
+//console.log("console.log para ver que pasa"); A
 
 
 /*
